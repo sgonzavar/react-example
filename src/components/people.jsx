@@ -6,7 +6,7 @@ const people = () => {
   return (
     <div classNameName="container">
 
-        <Hello />
+        {/* <Hello /> */}
 
       <h2>im people component {saludo}</h2>
       <button type="button" className="btn btn-primary me-2">
